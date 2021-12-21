@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+    padding:20px;
+    background-color:red;
+}
+nav a{
+    margin:32px;
+    font-size: 25px;
+    text-decoration:none;
+    color:white;
+    border:7px solid navy;
+    border-radius:13px;
+    background-color:navy;
+    
+}
+.popular {
+    background-color:white;
+    color:royalblue;
+    }
+header{
+    background-color: green
+}
+
+main{
+    background-color:navy;
+}
+
+footer{
+    background-color:red;
+}
